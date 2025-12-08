@@ -1,0 +1,17 @@
+{
+    "name": "derywat/php-logging",
+    "description": "Simple, extendable PHP logging library.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "derywat\\logging\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michal Rychlewski"
+        }
+    ],
+    "require": {}
+}
